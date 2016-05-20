@@ -16,9 +16,6 @@
     <link href="<?php echo base_url();?>assets/css/open-iconic-bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo base_url();?>assets/css/flaticon.css" rel="stylesheet">
 
-    <!-- Libraries -->
-    <link href="<?php echo base_url();?>assets/css/bootstrap-select.min.css" rel="stylesheet">
-
     <!-- React -->
     <link href="<?php echo base_url();?>assets/react/node_modules/todomvc-common/base.css" rel="stylesheet">
     <link href="<?php echo base_url();?>assets/react/node_modules/todomvc-app-css/index.css" rel="stylesheet">
