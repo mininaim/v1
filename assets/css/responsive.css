@@ -35,7 +35,12 @@
     }
     .footer {
         padding-top: 20px;
-        padding-bottom: 20px
+        padding-bottom: 20px;
+        text-align: center
+    }
+    .footer p::after {
+        margin-left: auto;
+        margin-right: auto
     }
     .footer h2 {
         font-size: 18px;
@@ -76,5 +81,8 @@
     }
     .listDetails .content {
         padding: 0 !important
+    }
+    .footer .col {
+        margin-bottom: 40px
     }
 }

@@ -1,7 +1,7 @@
 <section class="footer" role="footer">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-md-2">
+            <div class="col-xs-12 col-md-2 col">
                 <h4>القوائم &copy; 2016 </h4>
                 <p>
                     أفضل ما يمكنك الحصول عليه من قوائم مختارة بعناية
@@ -20,7 +20,7 @@
                 </ul>
             </div>
             <div class="hidden-xs col-md-6"></div>
-            <div class="col-xs-12 col-md-2">
+            <div class="col-xs-12 col-md-2 col">
                 <dl>
                     <dt>تصفح</dt>
                     <dd><a href="<?=base_url();?>about/" title="حول الموقع">حول الموقع</a></dd>
